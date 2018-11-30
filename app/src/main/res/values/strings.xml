@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppMovieStage1</string>
+
+    <string name="most_pop">most popular</string>>
+
+    <string name="most_rate">most rate</string>
+    <string name="title_activity_review">review</string>
+    <string name="favorite">favorite</string>>
+
+</resources>
